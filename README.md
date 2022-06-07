@@ -20,6 +20,8 @@ Building a model to help predict the occurances of earthquakes in the United Sta
 
 [Google Colaboratory Welcome Notebook](https://colab.research.google.com/#)
 
+[Getting Started with Google Colab](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
+
 [CSE 250 Data Science Programming - Introduction to Machine Learning](https://byuistats.github.io/CSE250-Larson/course-materials/machine-learning/)
 
 [Understanding basic metrics](https://towardsdatascience.com/metrics-to-understand-regression-models-in-plain-english-part-1-c902b2f4156f)
